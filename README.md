@@ -74,8 +74,6 @@ int main()
 }
 ```
 ## OUTPUT
-
 ![Screenshot from 2024-05-05 14-34-12](https://github.com/mithra916/Linux-IPC-Message-Queues/assets/149986612/a9b235dc-510e-40b1-96eb-96d82d7746bf)
-
 # RESULT:
 The programs are executed successfully.
